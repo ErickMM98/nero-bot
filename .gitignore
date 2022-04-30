@@ -1,0 +1,8 @@
+#Ignore project specific files
+.idea
+
+#ignore personal data
+secrets
+
+#ingore test files
+test.py
