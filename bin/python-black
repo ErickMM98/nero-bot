@@ -1,0 +1,4 @@
+#!/bin/bash
+# A simple Bash script
+python3 -m black nerobot/  # black is a Python module to format Python code
+python3 -m black main.py

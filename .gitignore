@@ -1,5 +1,9 @@
 #Ignore project specific files
 .idea
+.pyc
+.DS_Store
+__pycache__
+
 
 #ignore personal data
 secrets
